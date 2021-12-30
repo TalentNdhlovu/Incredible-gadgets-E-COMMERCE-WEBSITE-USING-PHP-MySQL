@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Permanent+Marker&family=Scheherazade+New&display=swap");
+.font-abel {
+  font-family: "Abel";
+}
+
+.font-schehezerade {
+  font-family: "Schehezerade New";
+}
+
+.font-permanentMarker {
+  font-family: "Permanent Marker";
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-18 {
+  font-size: 18px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.font-size-22 {
+  font-size: 22px;
+}
+
+#top-sale .owl-carousel .item .product a {
+  overflow: hidden;
+}
+
+#top-sale .owl-carousel .item .product img {
+  -webkit-transition: -webkit-transform .5s ease;
+  transition: -webkit-transform .5s ease;
+  transition: transform .5s ease;
+  transition: transform .5s ease, -webkit-transform .5s ease;
+}
+
+#top-sale .owl-carousel .item .product img:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+#top-sale .owl-carousel .owl-nav button {
+  position: absolute;
+  top: 30%;
+  outline: none;
+}
+
+#top-sale .owl-carousel .owl-nav button.owl-prev {
+  left: 0;
+}
+
+#top-sale .owl-carousel .owl-nav button.owl-prev span {
+  font-size: 45px;
+  color: #2d00f7;
+  margin-left: -4rem;
+  padding: 0 1rem;
+}
+
+#top-sale .owl-carousel .owl-nav button.owl-next {
+  right: 0;
+}
+
+#top-sale .owl-carousel .owl-nav button.owl-next span {
+  font-size: 45px;
+  color: #2d00f7;
+  margin-right: -4rem;
+  padding: 0 1rem;
+}
+
+button, button:focus {
+  outline: none !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.color-primary {
+  color: #14213d;
+}
+
+.color-primary-bg {
+  background: #14213d;
+}
+
+.color-second {
+  color: #2d00f7;
+}
+
+.color-second-bg {
+  background: #2d00f7;
+}
+
+.color-yellow {
+  color: #ffd100;
+}
+
+.color-yellow-bg {
+  background: #ffd100;
+}
+
+.color6 {
+  color: #155de4;
+}
+
+.color6-bg {
+  background: #155de4;
+}
+
+#special-price .container {
+  margin: 0 auto;
+}
+
+#special-price .container .grid {
+  margin: 0 auto;
+}
+
+#special-price .grid .grid-item {
+  margin-right: 1.2rem;
+  margin-top: 1rem;
+}
+
+body {
+  font-family: "Abel";
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+/*# sourceMappingURL=style.css.map */

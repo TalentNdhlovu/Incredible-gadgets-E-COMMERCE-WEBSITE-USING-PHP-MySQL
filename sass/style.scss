@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Permanent+Marker&family=Scheherazade+New&display=swap');
+
+// sass template
+@import './include/variables';
+@import './include/typoghraphy';
+@import './include/top-sale';
+@import './include/global';
+@import './include/color';
+@import './include/special-price';
+
+body {
+    font-family: $abel;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+// banner carousel
+
+
+// banner carousel x
